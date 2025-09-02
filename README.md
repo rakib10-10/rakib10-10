@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Android Studio, Mongo DB ,**
 
-- 👯 I’m looking to collaborate on **Any adroid or web based product**
+- 👯 I’m looking to collaborate on **Any android or web based product**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
